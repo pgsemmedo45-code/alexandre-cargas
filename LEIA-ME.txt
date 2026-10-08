@@ -1,0 +1,7 @@
+ALEXANDRE CARGAS
+
+Extraia todo o ZIP e abra index.html. Mantenha a pasta assets junto aos quatro arquivos HTML. Para publicar, envie todo o conteúdo para a pasta pública da sua hospedagem.
+
+Bootstrap e fotos estão incluídos localmente. O site não usa formulário, pixels ou analytics. Se adicionar rastreamento ou coleta de dados, atualize a política e implemente os controles necessários.
+
+Confira os dados cadastrais e as práticas descritas antes da publicação. As fotografias são ilustrativas: confirme autorização de uso. A aprovação no Google Ads depende da análise do Google e da conta anunciante.
